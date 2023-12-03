@@ -1,6 +1,6 @@
 import React from "react";
 import ColorSchemesExample from "./Navbar";
-import stateFairMural from '../images/stateFairMural/IMG_5886.jpg';
+import stateFairMural from "../images/stateFairMural.jpg";
 
 
 const Home = () => {
