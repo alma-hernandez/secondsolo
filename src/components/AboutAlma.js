@@ -1,8 +1,9 @@
 import React from 'react';
+import ColorSchemesExample from './Navbar';
 
 const AboutAlma = () => {
     return (
-        <div> Hello </div>
+        < ColorSchemesExample />
     );
 };
 

@@ -1,9 +1,11 @@
 import React from "react";
+import ColorSchemesExample from "./Navbar";
+
 
 const AboutMichael = () => {
     return (
-        <div>This is his page</div>
-    );
+        < ColorSchemesExample />
+        );
 };
 
 
