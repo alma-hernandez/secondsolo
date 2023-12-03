@@ -1,3 +1,11 @@
-#intro {
+.intro {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#opening {
     margin-top: 60px;
+}
+
+#mural {
+    border-radius: 15px;
 }
