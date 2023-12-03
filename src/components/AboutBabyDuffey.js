@@ -1,5 +1,5 @@
 import React from "react";
-import ColorSchemesExample  from "./Navbar";
+import ColorSchemesExample from "./Navbar";
 
 
 const AboutBabyDuffey = () => {
