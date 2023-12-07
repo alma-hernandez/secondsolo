@@ -1,13 +1,16 @@
 import React, { useState, useEffect } from 'react';
 import ColorSchemesExample from './Navbar';
 import "./AboutAlma.css"
+import boerneLake from "../images/boerneLake.jpg";
+import mattJeffHome from "../images/mattJeffHome.jpg";
+import thirdDate from "../images/thirdDate.JPG";
 
 
 const AboutAlma = () => {
     const almaImages = [
-        '../images/boerneLake.jpg',
-        '../images/mattJeffHome.jpg',
-        '../images/thirdDate.JPG'
+        boerneLake,
+        mattJeffHome,
+        thirdDate
     ];
 
     const [currentImageIndex, setCurrentImageIndex] = useState(0);
@@ -28,7 +31,7 @@ const AboutAlma = () => {
             <div>
                 <h1 id="almatitle">About Me</h1>
             </div>
-            <img
+            <img id="almapics"
                 className="transition-image large-image"
                 src={almaImages[currentImageIndex]}
                 alt={`Image ${currentImageIndex}`}
