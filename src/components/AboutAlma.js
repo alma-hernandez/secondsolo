@@ -23,7 +23,7 @@ const AboutAlma = () => {
 
 
     return (
-        <div>
+        <div id="almaBackground">
             < ColorSchemesExample />
             <div>
                 <h1 id="almatitle">About Me</h1>
