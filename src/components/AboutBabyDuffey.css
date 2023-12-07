@@ -1,0 +1,31 @@
+#babytitle {
+    font-size: 60px;
+    margin-bottom: 40px;
+}
+
+#babypic1 {
+    float: left;
+    width: 30%;
+    margin-right: 1%;
+}
+
+#baby1 {
+    width: 50%;
+    margin-left: 400px;
+    font-size: 30px;
+    margin-top: 100px;
+}
+
+#babypic2 {
+    margin-top: 160px;
+    float: right;
+    width: 30%;
+}
+
+#baby2 {
+    width: 50%;
+    margin-right: 400px;
+    font-size: 30px;
+    margin-top: 240px;
+}
+
