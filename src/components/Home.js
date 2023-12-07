@@ -6,7 +6,7 @@ import "./Home.css";
 
 const Home = () => {
     return (
-        <div>
+        <div id="homepage">
             <ColorSchemesExample />
            <div class="intro">
             <h1 id="hometitle">How We Met</h1>

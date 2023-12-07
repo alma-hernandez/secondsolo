@@ -1,0 +1,28 @@
+#michaelspage {
+    background-color: rgb(205, 178, 230);
+}
+
+#michaeltitle {
+    font-size: 60px;
+    margin-bottom: 40px;
+}
+
+#michaelinfo {
+    font-size: 40px;
+    margin-bottom: 60px;
+}
+
+/* ImageCarousel.css */
+
+.carousel-container {
+  
+    justify-content: center; /* Center horizontally */
+    height: 100vh; /* Adjust this as needed for your layout */
+  }
+  
+  .carousel-container img {
+    max-width: 100%; /* Ensure images don't exceed container width */
+    height: auto; /* Maintain original aspect ratio */
+    margin-left: 500px; /* Move images 100px to the right */
+  }
+  
