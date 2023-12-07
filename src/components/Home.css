@@ -2,8 +2,17 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+#hometitle {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 70px;
+}
+
 #opening {
     margin-top: 60px;
+    margin-left: 140px;
+    margin-right: 140px;
+    font-size: 30px;
 }
 
 #mural {
