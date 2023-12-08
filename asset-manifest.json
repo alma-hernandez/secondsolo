@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/secondsolo/static/css/main.349ba930.css",
+    "main.js": "/secondsolo/static/js/main.0c85844b.js",
+    "static/js/787.a98fd7ac.chunk.js": "/secondsolo/static/js/787.a98fd7ac.chunk.js",
+    "static/media/stateFairMural.jpg": "/secondsolo/static/media/stateFairMural.75232efde20fb1e26d40.jpg",
+    "static/media/thirdDate.JPG": "/secondsolo/static/media/thirdDate.cb9326318a4541aa5c61.JPG",
+    "static/media/mattJeffHome.jpg": "/secondsolo/static/media/mattJeffHome.67a748a702c0ab55d010.jpg",
+    "static/media/houston.jpg": "/secondsolo/static/media/houston.ea696f646ac4a97c3297.jpg",
+    "static/media/halloween.jpg": "/secondsolo/static/media/halloween.26c763794949fd437c35.jpg",
+    "static/media/xmas.jpg": "/secondsolo/static/media/xmas.4a7d5e446368ad0b51d7.jpg",
+    "static/media/zoo.jpg": "/secondsolo/static/media/zoo.309797fc04f673a6b834.jpg",
+    "static/media/boerneLake.jpg": "/secondsolo/static/media/boerneLake.b07b8d60c0dba7ea3308.jpg",
+    "static/media/pool.jpg": "/secondsolo/static/media/pool.142dec487a12b853381d.jpg",
+    "static/media/meetTheParents.jpg": "/secondsolo/static/media/meetTheParents.400d79c9dc651efb5347.jpg",
+    "static/media/kitchen.jpg": "/secondsolo/static/media/kitchen.c8bb97b85e86e8898dcd.jpg",
+    "static/media/slick.svg": "/secondsolo/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/secondsolo/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/secondsolo/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/secondsolo/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/secondsolo/index.html",
+    "main.349ba930.css.map": "/secondsolo/static/css/main.349ba930.css.map",
+    "main.0c85844b.js.map": "/secondsolo/static/js/main.0c85844b.js.map",
+    "787.a98fd7ac.chunk.js.map": "/secondsolo/static/js/787.a98fd7ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.349ba930.css",
+    "static/js/main.0c85844b.js"
+  ]
+}
